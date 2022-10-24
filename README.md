@@ -1,5 +1,9 @@
+![image](https://user-images.githubusercontent.com/114694540/197527938-955d06ae-bb55-4285-9b20-ca84e81c18b4.png)
+
 # Meu Perfil
-Olá meu nome é José Márcio Fernandes da Silva
+Olá meu nome é José Márcio Fernandes da Silva <br>
+Tenho 40 anos e dois filhos<br>
+Moro em Juiz de Fora - MG
 
 ## Formação
 
@@ -23,5 +27,5 @@ Olá meu nome é José Márcio Fernandes da Silva
 - Whatsapp: (32)991382015
 - Instagram: @josemarciofernandessilva
 - Github: JM-Fernandes
-- Twitter: @jmfgra
+- Twitter: @jmfgra 
 - Email: jmfgra@gmail.com
