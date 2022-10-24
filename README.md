@@ -29,3 +29,4 @@ Moro em Juiz de Fora - MG
 - Github: JM-Fernandes
 - Twitter: @jmfgra 
 - Email: jmfgra@gmail.com
+- LinkedIn: <link>linkedin.com/in/josé-márcio-fernandes-da-silva-5108866a</link>
